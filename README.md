@@ -1,6 +1,6 @@
 # curs-git
 aprendiendo GitHub desde remoto aplicando los conocimientos adquiridos 
 
-##descripción 
+## descripción 
 Este repo es para actualizar los conocimientos
 
